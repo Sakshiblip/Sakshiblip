@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=120&section=header&animation=fadeIn" width="100%" />
-
 # Sakshi Mishra
 
-**CS Undergrad · AI/ML · Cybersecurity · Full Stack**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI%2FML+%7C+Full+Stack;Turning+data+into+decisions;Actively+interviewing+for+entry-level+roles" alt="Typing SVG" />
 
-*Building intelligent systems at the intersection of machine learning, security, and engineering.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mishra-69623928a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sakshiblip)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Internships-22c55e?style=flat&logoColor=white)](https://www.linkedin.com/in/sakshi-mishra-69623928a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mishra-69623928a/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sakshiblip) [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sakshi-mishra-69623928a/)
 
 </div>
 
@@ -18,35 +12,23 @@
 
 ## About me
 
-Final-year Computer Science student from Mumbai, focused on **AI/ML** and **cybersecurity**. I build things that range from digit recognizers trained from scratch to SOC dashboards and predictive models on real-world datasets. Currently targeting AI/ML and security internships while expanding into LLMs, RAG, and autonomous agent systems.
+B.E. in Electronics & Computer Science Engineering (University of Mumbai, 2026), focused on **data analytics, data science, and AI/ML**. I've shipped a deployed full-stack civic platform, built ML models on real datasets, and worked as a data science intern designing feature pipelines.
 
-- Currently learning → **LLM fine-tuning · RAG pipelines · Vision Transformers**
-- Ask me about → **ML model building · classification · time series · React**
-- Looking for → **AI/ML internship or entry-level role**
+- Currently → **actively interviewing for entry-level Data Analyst / Data Scientist / ML roles**
+- Ask me about → **churn prediction, time series forecasting, full-stack deployment, SQL**
 - Based in → **Mumbai, India**
 
 ---
 
 ## Tech stack
 
-**AI / ML**
+**Data / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Web & Tools**
+**Databases / Web**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
@@ -54,33 +36,28 @@ Final-year Computer Science student from Mumbai, focused on **AI/ML** and **cybe
 
 | Project | Description | Stack |
 |---|---|---|
-| [Heart Disease Predictor](https://github.com/Sakshiblip/heart-disease-predictor) | ML classification on clinical indicators to predict heart disease risk | Python · scikit-learn · pandas |
-| [House Price Predictor](https://github.com/Sakshiblip/house-price-predictor-ai) | Regression model forecasting housing market trends | Python · scikit-learn · NumPy |
-| [Customer Segmentation](https://github.com/Sakshiblip/customer-segmentation-clustering) | K-means clustering to segment customers for business insights | Python · scikit-learn · Matplotlib |
+| [NagarSeva](https://github.com/Sakshiblip/nagarseva) | Full-stack civic issue reporting platform for Mumbai residents — citizen/admin roles, RLS, live maps, deployed | React · Supabase/PostgreSQL · Leaflet.js · Vercel |
+| [Customer Churn Prediction](https://github.com/Sakshiblip/customer-churn-prediction) | Gradient Boosting model predicting customer churn (F1: 0.81) | Python · scikit-learn · XGBoost |
 | [Time Series Forecasting](https://github.com/Sakshiblip/time-series-forecasting) | ARIMA, SARIMA & smoothing techniques on sequential data | Python · statsmodels · pandas |
-| [Netflix Content EDA](https://github.com/Sakshiblip/netflix-content-strategy) | Exploratory analysis of Netflix's global content library | Python · pandas · Seaborn |
-| [SOC Dashboard](https://github.com/Sakshiblip/soc-dashboard) | Security Operations Center dashboard UI | React · Tailwind CSS |
+| [Speech Emotion Recognition](https://github.com/Sakshiblip/speech-emotion-recognition) | Classifies emotional state from speech audio features | Python · scikit-learn / TensorFlow |
+| [CNN Digit Recognizer](https://github.com/Sakshiblip/cnn-digit-recognizer) | Convolutional neural network for handwritten digit classification | TensorFlow/Keras · NumPy |
+| [Heart Disease Predictor](https://github.com/Sakshiblip/heart-disease-predictor) | ML classification on clinical indicators to predict heart disease risk | Python · scikit-learn · pandas |
 
 ---
 
-## Currently exploring
+## Experience
 
-```text
-Large Language Models     ████████░░░░   learning
-RAG Pipelines             ██████░░░░░░   in progress
-Vision Transformers       ███████░░░░░   learning
-AI Agents                 █████░░░░░░░   early stage
-Cybersecurity tooling     ████████████   active
-```
+- **Technical Intern, DV Promotions** (Dec 2024–Present) — schema design, B2B wholesale platform work
+- **Data Science Intern, Zidio Development** (Jul–Oct 2024) — feature table design, forecasting pipelines
 
 ---
 
 <div align="center">
 
+·  ·  ·
+
 *"The best way to predict the future is to build it."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sakshiblip&color=6366f1&style=flat&label=Profile+views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=80&section=footer" width="100%" />
 
 </div>
