@@ -12,7 +12,7 @@
 
 ## About me
 
-B.E. in Electronics & Computer Science Engineering (University of Mumbai, 2026), focused on **data analytics, data science, and AI/ML**. I've shipped a deployed full-stack civic platform, built ML models on real datasets, and worked as a data science intern designing feature pipelines.
+B.E. in Electronics & Computer Science (University of Mumbai), focused on **data analytics, data science, and AI/ML**. I've shipped a deployed full-stack civic platform, built ML models on real datasets, and worked as a data science intern designing feature pipelines.
 
 - Currently → **actively interviewing for entry-level Data Analyst / Data Scientist / ML roles**
 - Ask me about → **churn prediction, time series forecasting, full-stack deployment, SQL**
@@ -47,8 +47,14 @@ B.E. in Electronics & Computer Science Engineering (University of Mumbai, 2026),
 
 ## Experience
 
-- **Technical Intern, DV Promotions** (Dec 2024–Present) — schema design, B2B wholesale platform work
+- **Technical Intern, DV Promotions** (Dec 2024–May 2026) — schema design, B2B wholesale platform work
 - **Data Science Intern, Zidio Development** (Jul–Oct 2024) — feature table design, forecasting pipelines
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mishra-69623928a/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ysakshimishra.work@gmail.com)
 
 ---
 
