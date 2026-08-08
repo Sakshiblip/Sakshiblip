@@ -40,7 +40,7 @@ B.E. in Electronics & Computer Science (University of Mumbai), focused on **data
 | [Customer Churn Prediction](https://github.com/Sakshiblip/customer-churn-prediction) | Gradient Boosting model predicting customer churn (F1: 0.81) | Python · scikit-learn · XGBoost |
 | [Time Series Forecasting](https://github.com/Sakshiblip/time-series-forecasting) | ARIMA, SARIMA & smoothing techniques on sequential data | Python · statsmodels · pandas |
 | [Speech Emotion Recognition](https://github.com/Sakshiblip/speech-emotion-recognition) | Classifies emotional state from speech audio features | Python · scikit-learn / TensorFlow |
-| [CNN Digit Recognizer](https://github.com/Sakshiblip/cnn-digit-recognizer) | Convolutional neural network for handwritten digit classification | TensorFlow/Keras · NumPy |
+| [CNN Digit Recognizer](https://github.com/Sakshiblip/fashion-mnist-ann-vs-cnn) | Convolutional neural network for handwritten digit classification | TensorFlow/Keras · NumPy |
 | [Heart Disease Predictor](https://github.com/Sakshiblip/heart-disease-predictor) | ML classification on clinical indicators to predict heart disease risk | Python · scikit-learn · pandas |
 
 ---
